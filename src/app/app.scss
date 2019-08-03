@@ -4,3 +4,9 @@
 // styles are for the entire app and not just one component. Additionally, this 
 // file can hold Sass mixins, functions, and placeholder classes to be imported 
 // and used throughout the application.
+
+body {
+  font: 300 16px/1.5 'Nunito',sans-serif;
+  color: #444;
+  background-color: #66b364;
+}
